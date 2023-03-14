@@ -1,5 +1,8 @@
-# Twitter Sentiment Anlysis
-Using NLP to detect hate speech in tweets
+# Twitter Hate Speech Anlysis
+
+The objective of this task is to detect hate speech in tweets using NLP.
+
+This taks uses a clean dataset, with 31,962 sample tweets and labels ( label '1' if hate speech label '0' if not).
 
 Following [this] tutorial
 
